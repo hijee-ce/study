@@ -1,5 +1,5 @@
 import sys
-sys.stdin = open("Books&Lectures/(인프런) 파이썬 알고리즘 문제풀이/01.K번째 약수/input.txt", 'r')
+sys.stdin = open("Books&Lectures/(인프런) 파이썬 알고리즘 문제풀이/section02/01.K번째 약수/input.txt", 'r')
 
 n, k = map(int, input().split())
 
