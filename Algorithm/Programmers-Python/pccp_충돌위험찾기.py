@@ -1,3 +1,4 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/340211
 def solution(points, routes):
     # 포인트의 개수
     n = len(points)
