@@ -11,5 +11,6 @@ for i in range(1, n+1):
     if cnt == k:
         print(i)
         break
+        # break를 하지 않으면 for문이 끝날때까지 반복됨 => 최소 약수 이후의 수들도 같이 출력됨
 else:
     print(-1)
